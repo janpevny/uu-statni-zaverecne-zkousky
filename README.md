@@ -2,9 +2,9 @@
 
 ### [Architektura cloudových aplikací](Softwarový%20vývoj/Architektura%20cloudových%20aplikací/README.md)
 
-### Frontendové systémy
+### [Frontendové systémy](Softwarový%20vývoj/Frontendové%20systémy/README.md)
 
-### Backendové systémy
+### [Backendové systémy](Softwarový%20vývoj/Backendové%20systémy/README.md)
 
 
 
